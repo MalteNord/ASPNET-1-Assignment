@@ -2990,11 +2990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/Infrastructure/Infrastructure.csproj",
+      "projectUniqueName": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/Infrastructure/Infrastructure.csproj",
+      "projectPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj",
       "packagesPath": "/Users/ensidya/.nuget/packages/",
-      "outputPath": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/Infrastructure/obj/",
+      "outputPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ensidya/.nuget/NuGet/NuGet.Config"

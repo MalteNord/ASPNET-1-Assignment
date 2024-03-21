@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4iuLUPh4aLYxgPdu3HipTcWG4/L91oVXwfnEdON2knM=",
+  "Hash": "ZqlK60Wb80lPSUorNrAVfJqz/jtHWHRduHEWw8CVD08=",
   "Source": "AspNet-1-Assignment",
   "BasePath": "_content/AspNet-1-Assignment",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "AspNet-1-Assignment/wwwroot",
       "Source": "AspNet-1-Assignment",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "/Users/ensidya/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.3/staticwebassets/V5/lib/jquery/LICENSE.txt"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/bundle/AspNet-1-Assignment.styles.css",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/bundle/AspNet-1-Assignment.styles.css",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "AspNet-1-Assignment.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/bundle/AspNet-1-Assignment.styles.css"
+      "OriginalItemSpec": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/bundle/AspNet-1-Assignment.styles.css"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/projectbundle/AspNet-1-Assignment.bundle.scp.css",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/projectbundle/AspNet-1-Assignment.bundle.scp.css",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "AspNet-1-Assignment.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/projectbundle/AspNet-1-Assignment.bundle.scp.css"
+      "OriginalItemSpec": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/scopedcss/projectbundle/AspNet-1-Assignment.bundle.scp.css"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/Auth/images/square-check.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/Auth/images/square-check.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "Auth/images/square-check.svg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/Auth/images/square-check.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/Auth/images/square.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/Auth/images/square.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "Auth/images/square.svg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/Auth/images/square.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/_components.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/_components.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/_components.scss",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/_components.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/_cores.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/_cores.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/_cores.scss",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/_cores.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/_sections.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/_sections.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/_sections.scss",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/_sections.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/components/_alerts.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/components/_alerts.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/components/_alerts.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/components/_alerts.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/components/_buttons.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/components/_buttons.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/components/_buttons.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/components/_buttons.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/components/_forms.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/components/_forms.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/components/_forms.scss",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/components/_forms.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/cores/_colors.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/cores/_colors.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/cores/_colors.scss",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/cores/_colors.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/cores/_general.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/cores/_general.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/cores/_general.scss",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/cores/_general.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/cores/_media.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/cores/_media.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/cores/_media.scss",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/cores/_media.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/cores/_typography.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/cores/_typography.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/cores/_typography.scss",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/cores/_typography.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_benefits.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_benefits.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_benefits.scss",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_benefits.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_content.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_content.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_content.scss",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_content.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_footer.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_footer.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_footer.scss",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_footer.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_header.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_header.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_header.scss",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_header.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_showcase.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_showcase.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_showcase.scss",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_showcase.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_signin.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_signin.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_signin.scss",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_signin.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_signup.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_signup.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_signup.scss",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_signup.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_slider.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_slider.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_slider.scss",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_slider.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_subscribe.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_subscribe.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_subscribe.scss",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_subscribe.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_testimonials.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_testimonials.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_testimonials.scss",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_testimonials.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/scss/sections/_tools.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_tools.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/scss/sections/_tools.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/css/scss/sections/_tools.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/site.css",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/site.css",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/site.css.map",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/site.css.map",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/site.css.map",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css.map"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/css/site.scss",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/site.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot/css/site.scss"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/add-group.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/add-group.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/add-group.svg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot/images/add-group.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/appstore.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/appstore.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/appstore.svg",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot/images/appstore.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/arrow-r.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/arrow-r.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/arrow-r.svg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot/images/arrow-r.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/arrow-swirl.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/arrow-swirl.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/arrow-swirl.svg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot/images/arrow-swirl.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/bell.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bell.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/bell.svg",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot/images/bell.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/bx-check-circle.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-check-circle.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/bx-check-circle.svg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot/images/bx-check-circle.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/bx-envelope.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-envelope.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/bx-envelope.svg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot/images/bx-envelope.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/bx-move-horizontal.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-move-horizontal.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/bx-move-horizontal.svg",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot/images/bx-move-horizontal.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/chat.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/chat.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/chat.svg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot/images/chat.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/dropbox.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/dropbox.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/dropbox.svg",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot/images/dropbox.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/Ellipse.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/Ellipse.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/Ellipse.svg",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot/images/Ellipse.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/evernote.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/evernote.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/evernote.svg",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot/images/evernote.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/gmail.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/gmail.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/gmail.svg",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot/images/gmail.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/google.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/google.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/google.svg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot/images/google.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/googleplay.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/googleplay.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/googleplay.svg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot/images/googleplay.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/iphone.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/iphone.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/iphone.svg",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot/images/iphone.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/light-toggle.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/light-toggle.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/light-toggle.svg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot/images/light-toggle.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/Line.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/Line.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/Line.svg",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot/images/Line.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-1.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-1.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/logos/logoipsum-1.svg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot/images/logos/logoipsum-1.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-2.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-2.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/logos/logoipsum-2.svg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot/images/logos/logoipsum-2.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-3.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-3.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/logos/logoipsum-3.svg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot/images/logos/logoipsum-3.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-4.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/logos/logoipsum-4.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/logos/logoipsum-4.svg",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot/images/logos/logoipsum-4.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/logos/silicon-logo.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/logos/silicon-logo.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/logos/silicon-logo.svg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot/images/logos/silicon-logo.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/MacBook-Pro-dark.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/MacBook-Pro-dark.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/MacBook-Pro-dark.svg",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot/images/MacBook-Pro-dark.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/MacBook-Pro-light.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/MacBook-Pro-light.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/MacBook-Pro-light.svg",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot/images/MacBook-Pro-light.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/mailchimp.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/mailchimp.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/mailchimp.svg",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot/images/mailchimp.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/mockup.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/mockup.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/mockup.svg",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot/images/mockup.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/phone-back.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/phone-back.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/phone-back.svg",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot/images/phone-back.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/phone-front.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/phone-front.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/phone-front.svg",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot/images/phone-front.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/presentation.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/presentation.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/presentation.svg",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot/images/presentation.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/shield.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/shield.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/shield.svg",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot/images/shield.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/showcase-img.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/showcase-img.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/showcase-img.svg",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot/images/showcase-img.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/slack.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/slack.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/slack.svg",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot/images/slack.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/square-check.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/square-check.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/square-check.svg",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot/images/square-check.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/square.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/square.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/square.svg",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot/images/square.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/star.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/star.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/star.svg",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot/images/star.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/task-img.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/task-img.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/task-img.svg",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot/images/task-img.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/test.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/test.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/test.svg",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot/images/test.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/trello.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/trello.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/trello.svg",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot/images/trello.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/images/zoom.svg",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/zoom.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "images/zoom.svg",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot/images/zoom.svg"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/js/components/sign-in-box.js",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/js/components/sign-in-box.js",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "js/components/sign-in-box.js",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot/js/components/sign-in-box.js"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/js/components/subscribe-box.js",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/js/components/subscribe-box.js",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "js/components/subscribe-box.js",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot/js/components/subscribe-box.js"
     },
     {
-      "Identity": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/js/site.js",
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/js/site.js",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/wwwroot/",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
       "BasePath": "_content/AspNet-1-Assignment",
       "RelativePath": "js/site.js",
       "AssetKind": "All",

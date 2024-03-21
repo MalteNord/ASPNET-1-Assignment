@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfVyx5ZtAxIBsZ/rjtoAeMEksF9N9qCTrALsg5OyKZLlksCt2SyEkM8er+93rs4CQTVghb18BkhmCziw4HHVAg==",
+  "dgSpecHash": "mQZGqE0lpRkzcOLVrdLZG6z3JQzSNaIlR49CyLVhcay60LtwJBcF0YyHJm4h55Swk6RHl/G5Pn+DyG9iIge2ug==",
   "success": true,
-  "projectFilePath": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/AspNet-1-Assignment.csproj",
+  "projectFilePath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/AspNet-1-Assignment.csproj",
   "expectedPackageFiles": [
     "/Users/ensidya/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/ensidya/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.3/microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",

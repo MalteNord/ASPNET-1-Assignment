@@ -9,75 +9,75 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AspNet_1_Assignment
 build_property.RootNamespace = AspNet_1_Assignment
-build_property.ProjectDir = /Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/
+build_property.ProjectDir = /Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment
+build_property.MSBuildProjectDirectory = /Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Auth/Account.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Auth/Account.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9BY2NvdW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Auth/SignIn.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Auth/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9TaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Auth/SignUp.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Auth/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXV0aC9TaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Default/Home.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Default/Home.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9Ib21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Benefits.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Benefits.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvQmVuZWZpdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Content.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Content.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvQ29udGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Footer.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvRm9vdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Header.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvSGVhZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Showcase.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Showcase.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvU2hvd2Nhc2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Slider.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Slider.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvU2xpZGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Subscribe.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Subscribe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvU3Vic2NyaWJlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Testimonials.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Testimonials.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvVGVzdGltb25pYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Partials/Sections/Tools.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Partials/Sections/Tools.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydGlhbHMvU2VjdGlvbnMvVG9vbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/_ViewImports.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/_ViewStart.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/Views/Shared/_Layout.cshtml]
+[/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8u2vnu56ip

@@ -2971,11 +2971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/AspNet-1-Assignment.csproj",
+      "projectUniqueName": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/AspNet-1-Assignment.csproj",
       "projectName": "AspNet-1-Assignment",
-      "projectPath": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/AspNet-1-Assignment.csproj",
+      "projectPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/AspNet-1-Assignment.csproj",
       "packagesPath": "/Users/ensidya/.nuget/packages/",
-      "outputPath": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/AspNet-1-Assignment/obj/",
+      "outputPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ensidya/.nuget/NuGet/NuGet.Config"
@@ -2990,8 +2990,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/ensidya/Desktop/Skola/Excersizes/ASP.Net-1/Assignment-Test/Infrastructure/Infrastructure.csproj"
+            "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj"
             }
           }
         }
