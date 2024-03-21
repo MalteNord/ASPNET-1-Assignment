@@ -1,0 +1,49 @@
+.content-section {
+    .container {
+        display: flex;
+        justify-content: center;
+        padding-top: 50px;
+        padding-bottom: 100px;
+        .task-img {
+            width: 60%;
+            margin-right: 100px;
+        }
+        .content {
+            margin-top: 150px;
+            h2 {
+                @include font-h2;
+                line-height: 130%;
+                margin-bottom: 5px;
+            }
+            .lists {
+                display: flex;
+                justify-content: center;
+                .list-img {
+                    margin-top: 4px;
+                    margin-right: 10px;
+                    .list-items-img {
+                        margin-top: 17px;
+                        list-style: none;
+                    }
+                }
+
+                .list {
+                    list-style: none;
+                    padding-bottom: 50px;
+                    .list-items {
+                        margin-top: 20px;
+                        font-size: 1rem;
+                        color: var(-color--gray-700);
+                    }
+                }
+            }
+            
+            .learn-more {
+                .btn-img {
+                    position: relative;
+                    top: 5px;
+                }
+            }
+        }
+    }
+}

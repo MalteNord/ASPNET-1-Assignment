@@ -1,0 +1,63 @@
+.signin {
+    .container {
+        margin-top: 100px;
+        margin-bottom: 100px;
+        h1 {
+            @include font-h1;
+            margin-left: 365px;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            margin-left: 365px;
+            margin-bottom: 30px;
+            font-size: 1em;
+            color: var(--color-gray-700);
+        }
+
+        .input-group {
+            display: grid;
+            justify-content: center;
+            p {
+                font-weight: 600;
+                font-size: 1em;
+                margin-bottom: 5px;
+            }
+
+            .input {
+                margin-bottom: 30px;
+                color: var(--color-gray-800);
+                line-height: 160%;
+                padding-left: 10px;
+                width: 526px;
+                height: 52px;
+            }
+        }
+        .checkbox-group {
+            display: flex;
+            
+            .remember-subtitle {
+                margin-left: 10px;
+                font-weight: 400;
+                color: var(--color-gray-700);
+            }
+            .box {
+                padding-right: 10px;
+                transform: translateY(-10%);
+            }
+        }
+        .sign-in {
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        .forgot-password {
+            text-decoration: none;
+            margin-top: 20px;
+            text-align: center;
+            font-size: 1em;
+            font-weight: 600;
+            color: var(--color-theme);
+        }
+    }
+}

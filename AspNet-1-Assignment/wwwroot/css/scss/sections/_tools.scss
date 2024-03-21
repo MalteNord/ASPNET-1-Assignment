@@ -1,0 +1,44 @@
+.tools {
+    .container {
+        text-align: center;
+        padding: 100px;
+        h1 {
+            @include font-h1;
+        }
+
+        .subtitle {
+            color: var(--color-gray-600);
+            font-size: 1rem;
+            margin-left: 200px;
+            margin-right: 200px;
+            margin-bottom: 100px;
+        }
+
+        .boxes {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            justify-content: center;
+            text-align: left;
+            margin-bottom: 50px;
+            .box{
+                color: var(--color-gray-700);
+                font-size: 1rem;
+                width: 100%;
+                padding: 20px;
+                margin-bottom: 50px;
+
+                &:hover {
+                    border-radius: 8px;
+                    box-shadow: 0px 2px 6.4px -1px rgba(19, 16, 34, 0.03), 0px 4.4px 12px -1px rgba(19, 16, 34, 0.06);
+                    transition: ease-in-out 0.2s;
+                }
+
+                .box-img {
+
+                }
+            }
+
+            
+        }
+    }
+}

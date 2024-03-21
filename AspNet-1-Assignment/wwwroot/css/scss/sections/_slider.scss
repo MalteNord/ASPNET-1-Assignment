@@ -1,0 +1,77 @@
+.slider {
+  position: relative;
+  display: flex;
+  justify-content: center;
+
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background-color: var(--color-gray-900);
+    z-index: 1;
+  }
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background-color: var(--color-white);
+    z-index: 1;
+  }
+  
+  .line {
+    position: absolute;
+    z-index: 4;
+    height: 100%;
+  }
+
+  .slide-img {
+    position: absolute;
+    z-index: 5;
+    margin-top: 430px;
+  }
+
+  .ellipse {
+    position: absolute;
+    z-index: 4;
+    margin-top: 420px;
+  }
+
+  .dark {
+    position: relative;
+    z-index: 1;
+    
+    .h1-dark {
+      color: var(--color-white);
+      margin-left: 350px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+
+    .macbook-dark {
+      width: 100%;
+    }
+  }
+
+  .light {
+    position: absolute;
+    right: 174px;
+    top: 0;
+    z-index: 3; /* Ensure light content is above the light background */
+
+    .h1-light {
+      padding-top: 50px;
+      padding-bottom: 50px;
+    }
+
+    .macbook-light {
+      width: 100%;
+    }
+  }
+}

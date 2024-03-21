@@ -1,0 +1,84 @@
+.subscribe {
+    background-color: var(--color-gray-100);
+    padding-top: 100px;
+    padding-bottom: 100px;
+    .container {
+        h1 {
+            text-align: center;
+            @include font-h1;
+            margin-bottom: 50px;
+            margin-right: 180px;
+        }
+
+        .arrow {
+            position: absolute;
+            margin-left: 850px;
+            margin-top: 5px;
+        }
+
+        .content {
+            h5 {
+                transform: translateY(15%);
+                position: absolute;
+                @include font-h5;
+                padding-left: 250px;
+                margin-right: 900px;
+            }
+            .checkboxes {
+                margin-bottom: 50px;
+                display: grid;
+                grid-template-columns: repeat(3, 0.2fr);
+                list-style: none;
+                margin-left: 475px;
+                .checkbox {
+                    width: 215px;
+                    margin-bottom: 20px;
+                    .box {
+                        transform: translateY(25%);
+                        margin-right: 10px;
+                    }
+                }
+            }
+
+            .input-container {
+                position: relative;
+                margin-left: 250px;
+                .input {
+                    padding: 10px;
+                    padding-right: 470px;
+                    padding-left: 40px;
+                }
+
+                .icon-container {
+                    position: absolute;
+                    top: 50%;
+                    left: 10px;
+                    transform: translateY(-40%);
+                }
+            }
+
+
+            .subscribe-btn {
+                position: absolute;
+                right: 240px;
+                transform: translateY(-100%);
+            }
+
+            .terms {
+                color: var(--color-gray-600);
+                font-size: 14px;
+                font-weight: 400;
+                margin-left: 255px;
+                margin-top: 10px;
+
+                .star {
+                    color: var(--color-theme);
+                }
+                .terms-span {
+                    color: var(--color-theme);
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}

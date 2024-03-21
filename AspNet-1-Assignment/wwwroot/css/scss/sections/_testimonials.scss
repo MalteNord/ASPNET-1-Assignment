@@ -1,0 +1,63 @@
+.testimonials {
+    background-color: var(--color-gray-200);
+    .container {
+        padding-top: 70px;
+        padding-bottom: 50px;
+        display: flex;
+        justify-content: center;
+
+            .phone {
+                margin-left: 125px;
+            }
+
+
+        .content {
+
+            margin-left: 100px;
+            margin-top: 50px;
+            h1 {
+                @include font-h1;
+                margin-right: 100px;
+                margin-bottom: 50px;
+
+            }
+
+            h4 {
+                @include font-h4;
+                margin-top: 10px;
+                margin-bottom: 5px;
+            }
+
+            p {
+                color: var(--color-gray-600);
+            }
+
+            .rating {
+                color: var(--color-gray-700);
+            }
+
+            .apple {
+                    
+            }
+
+            .google {
+                margin-top: 50px;
+            }
+
+            .stars {
+                margin-top: 10px;
+
+                .star {
+
+                }
+            }
+
+            .logo {
+                position: absolute;
+                padding-top: 25px;
+                padding-left: 250px;
+            }
+
+        }
+    }
+}
