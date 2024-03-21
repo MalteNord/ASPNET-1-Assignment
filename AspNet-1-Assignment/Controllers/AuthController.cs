@@ -95,6 +95,18 @@ public class AuthController(UserManager<UserEntity> userManager, SignInManager<U
 
     #endregion
 
+    #region Sign Out
+
+    [HttpGet]
+
+    public new async Task<IActionResult> SignOut()
+    {
+        await _signInManager.SignOutAsync();
+        return RedirectToAction("SignIn", "Auth");
+    }
+
+    #endregion
+
     #region Account
 
     public IActionResult Account()

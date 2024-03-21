@@ -1,12 +1,15 @@
-﻿<section class="account">
+﻿@model SignInViewModel
+
+
+<section class="account">
     <div class="container">
         <div class="sidebar">
             <img src="" alt="" class="avatar">
-            <h5>John Doe</h5>
+            <h5></h5>
             <p class="sidebar-email">john.doe@domain.com</p>
 
             <button class="details btn-theme">Account Details</button>
-            <p class="sign-out"><img src="" alt="">Sign Out</p>
+            <a asp-action="SignOut" asp-controller="Auth" class="sign-out"><img src="" alt="">Sign Out</a>
         </div>
 
         <div class="content">
