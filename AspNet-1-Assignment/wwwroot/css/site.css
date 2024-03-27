@@ -370,6 +370,106 @@ header .container .btn-mobile {
   margin-top: 50px;
 }
 
+.account-details .container .sidebar {
+  margin-top: 10px;
+  text-align: center;
+  margin-right: 970px;
+}
+.account-details .container .sidebar .avatar {
+  margin-left: 0px;
+}
+.account-details .container .sidebar h5 {
+  font-family: var(--font-manrope);
+  line-height: 1.5;
+  font-weight: 800;
+  font-size: 1.25em !important;
+}
+.account-details .container .sidebar .cog {
+  position: absolute;
+  left: 5%;
+}
+.account-details .container .sidebar .details {
+  margin-top: 30px;
+  width: 270px;
+}
+.account-details .container .sidebar .log-out-img {
+  position: absolute;
+  left: 8%;
+  padding-top: 90px;
+}
+.account-details .container .sidebar .sign-out {
+  left: 9.5%;
+  top: 49%;
+  color: var(--color-gray-800);
+  font-weight: 600;
+  text-decoration: none;
+  position: absolute;
+}
+.account-details .container .content {
+  margin-left: 450px;
+}
+.account-details .container .content .input-group {
+  display: grid;
+  grid-template-columns: repeat(1, 0fr);
+}
+.account-details .container .content .input-group .input {
+  margin-bottom: 30px;
+  color: var(--color-gray-800);
+  line-height: 160%;
+  padding-left: 10px;
+  width: 824px;
+  height: 52px;
+}
+.account-details .container .content .input-group .input-short {
+  margin-bottom: 30px;
+  color: var(--color-gray-800);
+  line-height: 160%;
+  padding-left: 10px;
+  width: 384px;
+  height: 52px;
+}
+.account-details .container .content .input-group .input-big {
+  margin-bottom: 30px;
+  color: var(--color-gray-800);
+  line-height: 160%;
+  padding-left: 10px;
+  width: 824px;
+  height: 78px;
+}
+.account-details .container .content .input-group .basic-info .short-basic-labels {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+.account-details .container .content .input-group .basic-info .short-basic-labels .firstname {
+  display: grid;
+  grid-template-columns: repeat(1, 0fr);
+}
+.account-details .container .content .input-group .basic-info .short-basic-labels .lastname {
+  display: grid;
+  grid-template-columns: repeat(1, 0fr);
+  margin-left: 25px;
+}
+.account-details .container .content .input-group .basic-info .short-basic-labels .email {
+  display: grid;
+  grid-template-columns: repeat(1, 0fr);
+}
+.account-details .container .content .input-group .basic-info .short-basic-labels .phonenumber {
+  display: grid;
+  grid-template-columns: repeat(1, 0fr);
+  margin-left: 25px;
+}
+.account-details .container .content .input-group .address .short-address-labels {
+  display: flex;
+}
+.account-details .container .content .input-group .address .short-address-labels .postalcode {
+  display: grid;
+  grid-template-columns: repeat(1, 0fr);
+}
+.account-details .container .content .input-group .address .short-address-labels .city {
+  display: grid;
+  grid-template-columns: repeat(1, 0fr);
+  margin-left: 55px;
+}
 .showcase {
   padding-top: 70px;
   padding-bottom: 100px;

@@ -1,0 +1,137 @@
+.account-details {
+    .container {
+
+        .sidebar {
+            margin-top: 10px;
+            text-align: center;
+            margin-right: 970px;
+            .avatar {
+                margin-left: 0px
+            }
+            h5 {
+                @include font-h5;
+            }
+            .sidebar-email {
+
+            }
+            .cog {
+                position: absolute;
+                left: 5%;
+            }
+            .details {
+                margin-top: 30px;
+                width: 270px;
+            }
+            .log-out-img {
+                position: absolute;
+                left: 8%;
+                padding-top: 90px;
+            }
+            .sign-out {
+                left: 9.5%;
+                top: 49%;
+                color: var(--color-gray-800);
+                font-weight: 600;
+                text-decoration: none;
+                position: absolute;
+            }
+        }
+
+        .content {
+            margin-left: 450px;
+                h2 {    
+            }
+
+            .input-group {
+                display: grid;
+                grid-template-columns: repeat(1, 0fr);
+                .input {
+                    margin-bottom: 30px;
+                    color: var(--color-gray-800);
+                    line-height: 160%;
+                    padding-left: 10px;
+                    width: 824px;
+                    height: 52px;
+                }
+
+                .input-short {
+                    margin-bottom: 30px;
+                    color: var(--color-gray-800);
+                    line-height: 160%;
+                    padding-left: 10px;
+                    width: 384px;
+                    height: 52px;
+                }
+
+                .input-big {
+                    margin-bottom: 30px;
+                    color: var(--color-gray-800);
+                    line-height: 160%;
+                    padding-left: 10px;
+                    width: 824px;
+                    height: 78px;
+                }
+                .basic-info {
+                    .basic-info-text {
+
+                    }
+                    .short-basic-labels {
+                        display: grid;
+                        grid-template-columns: repeat(2, 1fr);
+                        .firstname {
+                           display: grid;
+                           grid-template-columns: repeat(1, 0fr);
+                        }
+                        .lastname {
+                           display: grid;
+                           grid-template-columns: repeat(1, 0fr); 
+                           margin-left: 25px;                        
+                        }
+                        .email {
+                            display: grid;
+                            grid-template-columns: repeat(1, 0fr);                          
+                        }
+                        .phonenumber {
+                            display: grid;
+                            grid-template-columns: repeat(1, 0fr);
+                            margin-left: 25px;                      
+                        }
+                    }
+                    .basic-buttons {
+
+                    }
+                }
+
+                .address {
+
+                    .short-address-labels {
+                            display: flex;
+                        .postalcode {
+                            display: grid;
+                            grid-template-columns: repeat(1, 0fr);
+                        }
+                        .city {
+                            display: grid;
+                            grid-template-columns: repeat(1, 0fr);
+                            margin-left: 55px;
+                        }
+
+                    }
+
+                    .address-buttons {
+
+                    }
+
+                }
+
+                .cancel {
+
+                }
+
+                .save {
+
+                }
+            }
+        }
+    }
+}

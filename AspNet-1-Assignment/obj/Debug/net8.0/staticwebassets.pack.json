@@ -53,6 +53,10 @@
       "PackagePath": "staticwebassets/css/scss/cores/_typography.scss"
     },
     {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_accountdetails.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_accountdetails.scss"
+    },
+    {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_benefits.scss",
       "PackagePath": "staticwebassets/css/scss/sections/_benefits.scss"
     },
@@ -149,8 +153,16 @@
       "PackagePath": "staticwebassets/images/bx-check-circle.svg"
     },
     {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-cog.svg",
+      "PackagePath": "staticwebassets/images/bx-cog.svg"
+    },
+    {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-envelope.svg",
       "PackagePath": "staticwebassets/images/bx-envelope.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-log-out.svg",
+      "PackagePath": "staticwebassets/images/bx-log-out.svg"
     },
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-move-horizontal.svg",
@@ -227,6 +239,10 @@
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/presentation.svg",
       "PackagePath": "staticwebassets/images/presentation.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/profile-pic.svg",
+      "PackagePath": "staticwebassets/images/profile-pic.svg"
     },
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/shield.svg",

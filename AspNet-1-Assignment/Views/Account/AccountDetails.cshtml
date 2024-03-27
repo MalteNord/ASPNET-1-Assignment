@@ -1,0 +1,81 @@
+﻿@model UpdateUserViewModel
+
+<section class="account-details">
+    <div class="container">
+        <div class="sidebar">
+            <img src="~/images/profile-pic.svg" alt="" class="avatar">
+            <h5>John Doe</h5>
+            <p class="sidebar-email">john.doe@domain.com</p>
+
+            <img class="cog" src="~/images/bx-cog.svg" alt="">
+            <button class="details btn-theme">Account Details</button>
+
+            <img src="~/images/bx-log-out.svg" class="log-out-img" alt="">
+            <a asp-action="SignOut" asp-controller="Auth" class="sign-out">Sign Out</a>
+        </div>
+
+            <div class="content">
+                <h2>Account Details</h2>
+                            <form method="post" asp-action="Update" asp-controller="Account">
+                                <div>
+                                    @ViewData["StatusMessage"]
+                                </div>
+                                <div class="input-group">
+                                    <div class="basic-info">
+                                    <h5 class="basic-info-text">Basic Info</h5>
+                                        <div class="short-basic-labels">
+                                            <div class="firstname">
+                                            <label asp-for="FirstName"></label>
+                                            <input asp-for="FirstName" class="input-short label-l" />
+                                            </div>
+                                            <div class="lastname">
+                                            <label asp-for="LastName"></label>
+                                            <input asp-for="LastName" class="input-short label-l" />  
+                                            </div>
+                                            <div class="email">
+                                            <label asp-for="Email"></label>
+                                            <input asp-for="Email" class="input-short label-l" />
+                                            </div>
+                                            <div class="phonenumber">
+                                            <label asp-for="PhoneNumber"></label>
+                                            <input asp-for="PhoneNumber" class="input-short label-l" />
+                                            </div>
+
+                                        </div>
+                                            <label asp-for="Bio"></label>
+                                            <input asp-for="Bio" class="input-big label-l" />
+                                            <div class="basic-buttons">
+                                            <button class="cancel btn-theme-secondary">Cancel</button>
+                                            <button class="Save btn-theme" type="submit">Save changes</button>
+                                            </div>      
+                                    </div>
+
+                                        <div class="address">
+                                            <label asp-for="Address.AddressLine_1"></label>
+                                            <input asp-for="Address.AddressLine_1" class="input label-l" />
+
+                                            <label asp-for="Address.AddressLine_2"></label>
+                                            <input asp-for="Address.AddressLine_2" class="input label-l" />
+
+                                        <div class="short-address-labels">
+                                            <div class="postalcode">
+                                            <label asp-for="Address.PostalCode"></label>
+                                            <input asp-for="Address.PostalCode" class="input-short label-l" />
+                                            </div>
+                                            <div class="city">
+                                            <label asp-for="Address.City"></label>
+                                            <input asp-for="Address.City" class="input-short label-l" />
+                                            </div>
+                                           </div>
+                                            <div class="address-buttons">
+                                            <button class="cancel btn-theme-secondary">Cancel</button>
+                                            <button class="Save btn-theme" type="submit">Save changes</button>
+                                            </div>    
+                                        </div>
+                                </div>       
+                            </form>
+            </div>
+        </div>
+    </div>
+</section>
+

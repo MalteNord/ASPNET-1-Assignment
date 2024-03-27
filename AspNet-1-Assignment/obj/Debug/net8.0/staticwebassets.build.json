@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZqlK60Wb80lPSUorNrAVfJqz/jtHWHRduHEWw8CVD08=",
+  "Hash": "23V8WKH9/nsw5r64HEYHMhvk+oD5QSKRCFQmzCDl2FY=",
   "Source": "AspNet-1-Assignment",
   "BasePath": "_content/AspNet-1-Assignment",
   "Mode": "Default",
@@ -1423,6 +1423,25 @@
       "OriginalItemSpec": "wwwroot/css/scss/cores/_typography.scss"
     },
     {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_accountdetails.scss",
+      "SourceId": "AspNet-1-Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
+      "BasePath": "_content/AspNet-1-Assignment",
+      "RelativePath": "css/scss/sections/_accountdetails.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/scss/sections/_accountdetails.scss"
+    },
+    {
       "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_benefits.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
@@ -1803,6 +1822,25 @@
       "OriginalItemSpec": "wwwroot/images/bx-check-circle.svg"
     },
     {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-cog.svg",
+      "SourceId": "AspNet-1-Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
+      "BasePath": "_content/AspNet-1-Assignment",
+      "RelativePath": "images/bx-cog.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/bx-cog.svg"
+    },
+    {
       "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-envelope.svg",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
@@ -1820,6 +1858,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/bx-envelope.svg"
+    },
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-log-out.svg",
+      "SourceId": "AspNet-1-Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
+      "BasePath": "_content/AspNet-1-Assignment",
+      "RelativePath": "images/bx-log-out.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/bx-log-out.svg"
     },
     {
       "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/bx-move-horizontal.svg",
@@ -2257,6 +2314,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/presentation.svg"
+    },
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/profile-pic.svg",
+      "SourceId": "AspNet-1-Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
+      "BasePath": "_content/AspNet-1-Assignment",
+      "RelativePath": "images/profile-pic.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/profile-pic.svg"
     },
     {
       "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/shield.svg",
