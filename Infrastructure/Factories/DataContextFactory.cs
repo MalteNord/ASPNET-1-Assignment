@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 
-namespace Infrastructure.DataContexts;
+namespace Infrastructure.Factories;
 
 public class DataContextFactory : IDesignTimeDbContextFactory<DataContext>
 {
@@ -11,8 +11,10 @@ public class DataContextFactory : IDesignTimeDbContextFactory<DataContext>
     {
         var optionBuilder = new DbContextOptionsBuilder<DataContext>();
         optionBuilder.UseSqlite("Data Source=Data/local_database.db");
+        optionBuilder.UseSqlite("Data Source=Data/api_database.db");
 
         return new DataContext(optionBuilder.Options);
     }
+    
 
 }
