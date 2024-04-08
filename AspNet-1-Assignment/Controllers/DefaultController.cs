@@ -15,27 +15,7 @@ public class DefaultController : Controller
     {
         return View();
     }
-
-    [HttpPost]
-    public async Task <IActionResult> Subscribe(SubscribeViewModel model)
-    {
-        if (ModelState.IsValid)
-        {
-            var subscriberEntity = new SubscriberEntity
-            {
-                Email = model.Email,
-                DailyNewsletter = model.DailyNewsletter,
-                AdvertisingUpdates = model.AdvertisingUpdates,
-                WeekinReview = model.WeekinReview,
-                EventUpdates = model.EventUpdates,
-                StartupsWeekly = model.StartupsWeekly,
-                Podcasts = model.Podcasts
-            };
-
-            _context.Subscribers.Add(subscriberEntity)
-            await _context.SaveChangesAsync();
-        }
-    }
+   
 
 }
 

@@ -1,11 +1,12 @@
-﻿@model SubscribeViewModel
+﻿@using WebApi.Models
+@model SubscribeForm
 
-<section class="subscribe">
+<section id="subscribe" class="subscribe">
     <div class="container">
         <img class="arrow" src="~/images/arrow-swirl.svg" alt="">
         <h1>Don't Want to Miss Anything?</h1>
         <div class="content">
-            <form method="post" asp-action="Subscribe" asp-controller="Default">
+            <form method="post" asp-action="Subscribe" asp-controller="Subscribe">
                 <h5>Sign up for Newsletters</h5>
             <div class="checkboxes">
                 <div class="checkbox">
@@ -42,6 +43,9 @@
     <button type="submit" class="subscribe-btn btn-theme">Subscribe *</button>
     <p class="terms"><span class="star">*</span> Yes, I agree to the <span class="terms-span">terms</span> and <span class="terms-span">privacy policy</span></p>
             </form>
+        </div>
+        <div class="status">
+                @TempData["Status"]
         </div>
     </div>
 </section>

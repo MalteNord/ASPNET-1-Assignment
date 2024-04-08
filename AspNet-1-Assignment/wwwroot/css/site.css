@@ -807,6 +807,12 @@ header .container .btn-mobile {
   margin-bottom: 50px;
   margin-right: 180px;
 }
+.subscribe .container .status {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  font-weight: 400;
+}
 .subscribe .container .arrow {
   position: absolute;
   margin-left: 850px;

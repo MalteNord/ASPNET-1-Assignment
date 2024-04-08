@@ -1,11 +1,23 @@
 {
   "Version": 1,
-  "Hash": "23V8WKH9/nsw5r64HEYHMhvk+oD5QSKRCFQmzCDl2FY=",
+  "Hash": "cs3AUZtTqIH0FmQIaw/R+Wdeyg8pQ6F4qOsmA62rw/k=",
   "Source": "AspNet-1-Assignment",
   "BasePath": "_content/AspNet-1-Assignment",
   "Mode": "Default",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/WebApi/WebApi.csproj",
+      "Version": 2,
+      "Source": "WebApi",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "AspNet-1-Assignment/wwwroot",
