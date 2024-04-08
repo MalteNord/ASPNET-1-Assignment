@@ -13,8 +13,21 @@
             <p>Dark</p>
         </div>
         <div class="account-buttons">
+            @if (SignInManager.IsSignedIn(User))
+            {
+            <div class="profile">
+                <div class="image">
+                    <a asp-action="AccountDetails" asp-controller="Account">
+                        <img class="profile-avatar" src="~/uploads/avatar.jpg" alt="">
+                    </a>
+                </div>
+            </div>
+            }
+            else 
+            {
             <a class="btn-theme-secondary btn-small" asp-action="SignIn" asp-controller="Auth"><i class="fa-regular fa-arrow-right-to-bracket"></i>Sign in</a>
             <a class="btn-theme btn-small" asp-action="SignUp" asp-controller="Auth"><i class="fa-regular fa-user"></i>Sign up</a>
+            }
         </div>
 
             <button class="btn-mobile"><i class="fa-regular fa-bars"></i></button>

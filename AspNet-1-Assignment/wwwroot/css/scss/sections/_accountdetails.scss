@@ -11,25 +11,17 @@
         @include font-h5;
       }
       .sidebar-email {
+        margin-bottom: 50px;
       }
-      .cog {
-        position: absolute;
-        margin-top: 43px;
-        margin-left: 20px;
-    }
       .details {
-        margin-top: 30px;
         width: 270px;
         padding-right: 100px;
       }
-      .log-out-img {
-        position: absolute;
-        left: 7.5%;
-        padding-top: 90px;
-      }
       .sign-out {
+        margin-top: 50px;
+        padding-right: 50px;
         left: 9%;
-        top: 49%;
+        top: 45%;
         color: var(--color-gray-800);
         font-weight: 600;
         text-decoration: none;

@@ -1,17 +1,19 @@
-﻿@model UpdateUserViewModel
+﻿@{
+    Layout = "_AccountLayout";
+
+}
+
+@model UpdateUserViewModel
 
 <section class="account-details">
     <div class="container">
         <div class="sidebar">
-            <img src="~/images/profile-pic.svg" alt="" class="avatar">
+            <img src="~/uploads/avatar.jpg" alt="" class="avatar profile-avatar">
             <h5>John Doe</h5>
             <p class="sidebar-email">john.doe@domain.com</p>
 
-            <img class="cog" src="~/images/bx-cog.svg" alt="">
-            <button class="details btn-theme">Account Details</button>
-
-            <img src="~/images/bx-log-out.svg" class="log-out-img" alt="">
-            <a asp-action="SignOut" asp-controller="Auth" class="sign-out">Sign Out</a>
+            <a asp-action="Details" asp-controller="Account" class="details btn-theme"><i class="fa-regular fa-cog"></i>Account Details</a>
+            <a asp-action="SignOut" asp-controller="Auth" class="sign-out"><i class="fa-regular fa-arrow-left-from-bracket"></i> Sign Out</a>
         </div>
 
             <div class="content">

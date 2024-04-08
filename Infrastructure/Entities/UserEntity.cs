@@ -1,12 +1,12 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Http.Connections;
+using Microsoft.AspNetCore.Identity;
 
 namespace Infrastructure.Entities;
 
 public class UserEntity : IdentityUser
 {   
-    [ProtectedPersonalData]
-    public string FirstName {get; set;} = null!;
-
-    [ProtectedPersonalData]
-    public string LastName {get; set;} = null!;
+    public string FirstName { get; set; } = null!;
+    public string LastName { get; set;} = null!;
+    public string? ProfileImage { get; set; } = "avatar.jpg";
+    public bool IsExternal { get; set; }
 }

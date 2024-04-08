@@ -17,6 +17,7 @@
     <Folder Include="wwwroot/Auth/images/" />
     <Folder Include="wwwroot/css/components/" />
     <Folder Include="wwwroot/css/sections/" />
+    <Folder Include="wwwroot/uploads/" />
   </ItemGroup>
 
   <ItemGroup>

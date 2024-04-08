@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets/css/scss/components/_forms.scss"
     },
     {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/components/_images.scss",
+      "PackagePath": "staticwebassets/css/scss/components/_images.scss"
+    },
+    {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/cores/_colors.scss",
       "PackagePath": "staticwebassets/css/scss/cores/_colors.scss"
     },
@@ -295,6 +299,10 @@
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/uploads/avatar.jpg",
+      "PackagePath": "staticwebassets/uploads/avatar.jpg"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AspNet-1-Assignment.Microsoft.AspNetCore.StaticWebAssets.props",

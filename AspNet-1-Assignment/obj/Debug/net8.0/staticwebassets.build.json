@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cs3AUZtTqIH0FmQIaw/R+Wdeyg8pQ6F4qOsmA62rw/k=",
+  "Hash": "b0vCYrNFq1M/xW4NYbceVbSF20RafLxETG2ZZ4jzxjs=",
   "Source": "AspNet-1-Assignment",
   "BasePath": "_content/AspNet-1-Assignment",
   "Mode": "Default",
@@ -1359,6 +1359,25 @@
       "OriginalItemSpec": "wwwroot/css/scss/components/_forms.scss"
     },
     {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/components/_images.scss",
+      "SourceId": "AspNet-1-Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
+      "BasePath": "_content/AspNet-1-Assignment",
+      "RelativePath": "css/scss/components/_images.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/scss/components/_images.scss"
+    },
+    {
       "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/cores/_colors.scss",
       "SourceId": "AspNet-1-Assignment",
       "SourceType": "Discovered",
@@ -2592,6 +2611,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/site.js"
+    },
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/uploads/avatar.jpg",
+      "SourceId": "AspNet-1-Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
+      "BasePath": "_content/AspNet-1-Assignment",
+      "RelativePath": "uploads/avatar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/avatar.jpg"
     }
   ]
 }
