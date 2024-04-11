@@ -305,6 +305,10 @@
       "PackagePath": "staticwebassets/uploads/avatar.jpg"
     },
     {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/uploads/p_2b9dda0e-1f48-4ed6-998b-2e8398f8c2a3_17764265-f9d6-4070-8225-ec5a76221033.jpg",
+      "PackagePath": "staticwebassets/uploads/p_2b9dda0e-1f48-4ed6-998b-2e8398f8c2a3_17764265-f9d6-4070-8225-ec5a76221033.jpg"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.AspNet-1-Assignment.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

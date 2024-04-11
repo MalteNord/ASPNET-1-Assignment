@@ -1,6 +1,7 @@
 using Infrastructure.Contexts;
 using Infrastructure.Entities;
 using Microsoft.EntityFrameworkCore;
+using Infrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
@@ -13,6 +14,7 @@ builder.Services.AddDefaultIdentity<UserEntity>(x =>
     x.SignIn.RequireConfirmedAccount = false;
     x.Password.RequiredLength = 8;
 }).AddEntityFrameworkStores<DataContext>();
+builder.Services.AddScoped<AccountService>();
 
 var app = builder.Build();
 app.UseHsts();

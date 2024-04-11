@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "b0vCYrNFq1M/xW4NYbceVbSF20RafLxETG2ZZ4jzxjs=",
+  "Hash": "J3S4L8FNrfNs7HAjP5zMGZkMIURQOAeRdO8lDZ4tHyA=",
   "Source": "AspNet-1-Assignment",
   "BasePath": "_content/AspNet-1-Assignment",
   "Mode": "Default",
@@ -2630,6 +2630,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/uploads/avatar.jpg"
+    },
+    {
+      "Identity": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/uploads/p_2b9dda0e-1f48-4ed6-998b-2e8398f8c2a3_17764265-f9d6-4070-8225-ec5a76221033.jpg",
+      "SourceId": "AspNet-1-Assignment",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/",
+      "BasePath": "_content/AspNet-1-Assignment",
+      "RelativePath": "uploads/p_2b9dda0e-1f48-4ed6-998b-2e8398f8c2a3_17764265-f9d6-4070-8225-ec5a76221033.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/uploads/p_2b9dda0e-1f48-4ed6-998b-2e8398f8c2a3_17764265-f9d6-4070-8225-ec5a76221033.jpg"
     }
   ]
 }

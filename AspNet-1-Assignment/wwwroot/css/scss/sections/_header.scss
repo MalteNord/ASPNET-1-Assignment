@@ -8,6 +8,11 @@ header {
     grid-template-columns: 1fr auto;
     grid-template-areas: "logo mobile";
 
+    .avatar {
+      margin-top: 5px;
+      width: 60px;
+    }
+
     @include xl {
       grid-template-columns: auto 1fr auto auto;
       grid-template-areas: "logo nav sw account";

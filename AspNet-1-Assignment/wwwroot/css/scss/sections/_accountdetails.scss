@@ -7,6 +7,11 @@
       .avatar {
         margin-left: 0px;
       }
+      .uploader {
+        position: relative;
+        left: 170px;
+        bottom: 35px;
+      }
       h5 {
         @include font-h5;
       }
@@ -20,8 +25,8 @@
       .sign-out {
         margin-top: 50px;
         padding-right: 50px;
-        left: 9%;
-        top: 45%;
+        left: 7%;
+        top: 47%;
         color: var(--color-gray-800);
         font-weight: 600;
         text-decoration: none;
@@ -32,6 +37,7 @@
     .content {
       margin-left: 450px;
       h2 {
+        margin-bottom: 20px;
       }
 
       .input-group {
@@ -65,6 +71,7 @@
         }
         .basic-info {
           .basic-info-text {
+            margin-bottom: 20px;
           }
           .short-basic-labels {
             display: grid;
@@ -111,6 +118,8 @@
         }
 
         .cancel {
+          margin-right: 10px;
+          margin-bottom: 50px;
         }
 
         .save {

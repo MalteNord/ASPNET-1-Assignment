@@ -1,10 +1,24 @@
-﻿<header>
+﻿@{
+    var user = await UserManager.GetUserAsync(User);
+}
+
+<header>
     <div class="container">
         <a class="logo" asp-action="Home" asp-controller="Default"><img src="~/images/logos/silicon-logo.svg" alt="Silicon" /></a>
 
         <nav>
             <a asp-action="Home" asp-controller="Default">Overview</a>
-            <a asp-action="Home" asp-controller="Default">Features</a>
+
+
+            @if (SignInManager.IsSignedIn(User) && user != null)
+            {
+                <a asp-action="Index" asp-controller="Courses">Courses</a>
+            }
+            else
+            {
+                <a asp-action="Home" asp-controller="Default">Features</a>
+            }
+
             <a asp-action="Home" asp-controller="Default">Contact</a>
         </nav>
         <div class="light-toggle">
@@ -13,12 +27,12 @@
             <p>Dark</p>
         </div>
         <div class="account-buttons">
-            @if (SignInManager.IsSignedIn(User))
+            @if (SignInManager.IsSignedIn(User) && user != null)
             {
             <div class="profile">
                 <div class="image">
                     <a asp-action="AccountDetails" asp-controller="Account">
-                        <img class="profile-avatar" src="~/uploads/avatar.jpg" alt="">
+                         <img src="@Configuration["FilePath:ProfileImagePath"]/@user.ProfileImage" alt="" class="profile-avatar avatar" />
                     </a>
                 </div>
             </div>
