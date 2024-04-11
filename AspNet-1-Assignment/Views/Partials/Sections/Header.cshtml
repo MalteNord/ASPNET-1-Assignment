@@ -12,7 +12,7 @@
 
             @if (SignInManager.IsSignedIn(User) && user != null)
             {
-                <a asp-action="Index" asp-controller="Courses">Courses</a>
+                <a asp-action="Courses" asp-controller="Courses">Courses</a>
             }
             else
             {
