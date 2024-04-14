@@ -1,4 +1,7 @@
-﻿<section class="showcase">
+﻿@{
+    var user = await UserManager.GetUserAsync(User);
+}
+<section class="showcase">
     <div class="container">
 
         <div class="content">
@@ -6,7 +9,14 @@
 
             <p>We offer you a new generation of task management system. Plan, manage & track all your tasks in one flexible tool.</p>
 
-            <a class="get-started btn-theme" asp-action="Index" asp-controller="Products">Get started for free</a>
+            @if (SignInManager.IsSignedIn(User) && user != null)
+            {
+                <a class="get-started btn-theme" asp-action="Index" asp-controller="Courses">Get started for free</a>
+            }
+            else
+            {
+                <a class="get-started btn-theme" asp-action="SignUp" asp-controller="Auth">Get started for free</a>
+            }
 
             <div class="brands">
                 <h6>Largest companies use our tool to work efficiently</h6>

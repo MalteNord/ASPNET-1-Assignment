@@ -69,12 +69,24 @@
       "PackagePath": "staticwebassets/css/scss/sections/_content.scss"
     },
     {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_cookieconsent.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_cookieconsent.scss"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_courses.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_courses.scss"
+    },
+    {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_footer.scss",
       "PackagePath": "staticwebassets/css/scss/sections/_footer.scss"
     },
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_header.scss",
       "PackagePath": "staticwebassets/css/scss/sections/_header.scss"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_pagination.scss",
+      "PackagePath": "staticwebassets/css/scss/sections/_pagination.scss"
     },
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/css/scss/sections/_showcase.scss",
@@ -177,6 +189,42 @@
       "PackagePath": "staticwebassets/images/chat.svg"
     },
     {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_1.svg",
+      "PackagePath": "staticwebassets/images/courses/course_1.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_2.svg",
+      "PackagePath": "staticwebassets/images/courses/course_2.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_3.svg",
+      "PackagePath": "staticwebassets/images/courses/course_3.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_4.svg",
+      "PackagePath": "staticwebassets/images/courses/course_4.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_5.svg",
+      "PackagePath": "staticwebassets/images/courses/course_5.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_6.svg",
+      "PackagePath": "staticwebassets/images/courses/course_6.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_7.svg",
+      "PackagePath": "staticwebassets/images/courses/course_7.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_8.svg",
+      "PackagePath": "staticwebassets/images/courses/course_8.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/courses/course_9.svg",
+      "PackagePath": "staticwebassets/images/courses/course_9.svg"
+    },
+    {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/dropbox.svg",
       "PackagePath": "staticwebassets/images/dropbox.svg"
     },
@@ -195,6 +243,10 @@
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/googleplay.svg",
       "PackagePath": "staticwebassets/images/googleplay.svg"
+    },
+    {
+      "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/illustration.svg",
+      "PackagePath": "staticwebassets/images/illustration.svg"
     },
     {
       "Id": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/wwwroot/images/iphone.svg",

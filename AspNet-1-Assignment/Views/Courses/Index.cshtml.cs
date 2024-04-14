@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace MyApp.Namespace
 {
-    public class CoursesModel : PageModel
+    public class IndexModel : PageModel
     {
         public void OnGet()
         {
