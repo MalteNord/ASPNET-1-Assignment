@@ -81,7 +81,7 @@ public class AuthController(UserManager<UserEntity> userManager, SignInManager<U
                     var result = await _signInManager.PasswordSignInAsync(user, model.Password, model.RememberMe, false);
                     if (result.Succeeded)
                     {
-                        return RedirectToAction("Account", "Auth");
+                        return RedirectToAction("AccountDetails", "Account");
                     }
                 }
             }
@@ -95,11 +95,14 @@ public class AuthController(UserManager<UserEntity> userManager, SignInManager<U
 
     #endregion
 
-    #region Account
+    #region Sign Out
 
-    public IActionResult Account()
+    [HttpGet]
+
+    public new async Task<IActionResult> SignOut()
     {
-        return View();
+        await _signInManager.SignOutAsync();
+        return RedirectToAction("SignIn", "Auth");
     }
 
     #endregion

@@ -10,6 +10,13 @@
             margin-right: 180px;
         }
 
+        .status {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            font-weight: 400;
+        }
+
         .arrow {
             position: absolute;
             margin-left: 850px;
@@ -61,7 +68,7 @@
             .subscribe-btn {
                 position: absolute;
                 right: 240px;
-                transform: translateY(-100%);
+                transform: translateY(295%);
             }
 
             .terms {

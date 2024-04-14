@@ -1,0 +1,105 @@
+﻿@model AccountDetailsViewModel
+@{
+    Layout = "_AccountLayout";
+    var user = await UserManager.GetUserAsync(User);
+}
+
+    <section class="account-details">
+    <div class="container">
+        <div class="sidebar">
+            @if (user != null)
+            {
+            <div class="image">
+            <img src="@Configuration["FilePath:ProfileImagePath"]/@user.ProfileImage" alt="" class="avatar profile-avatar">
+            <form enctype="multipart/form-data" method="post" asp-action="ProfileImageUpload" asp-controller="Account"> 
+                <input id="fileUploader" type="file" name="file" hidden/>
+                <label for="fileUploader" class="uploader btn btn-circle btn-circle-sm"><i class="fa-regular fa-refresh"></i></label>
+            </form>
+            </div>
+            
+            <h5>@user.FirstName @user.LastName</h5>
+            <p class="sidebar-email">@user.Email</p>
+            }
+            <a asp-action="Details" asp-controller="Account" class="details btn-theme"><i class="fa-regular fa-cog"></i>Account Details</a>
+            <a asp-action="SignOut" asp-controller="Auth" class="sign-out btn btn-white"><i class="fa-regular fa-arrow-left-from-bracket"></i> Sign Out</a>
+        </div>
+
+            <div class="content">
+                <h2>Account Details</h2>
+                            <form method="post" asp-action="UpdateBasicInfo" asp-controller="Account">
+                                <div>
+                                    @ViewData["StatusMessage"]
+                                </div>
+                                <div class="input-group">
+                                    <div class="basic-info">
+                                    <h5 class="basic-info-text">Basic Info</h5>
+                                        <div class="short-basic-labels">
+                                            <div class="firstname">
+                                            <label asp-for="BasicInfo.FirstName"></label>
+                                            <input asp-for="BasicInfo.FirstName" class="input-short label-l" />
+                                            <span asp-validation-for="BasicInfo.FirstName"></span>
+                                            </div>
+                                            <div class="lastname">
+                                            <label asp-for="BasicInfo.LastName"></label>
+                                            <input asp-for="BasicInfo.LastName" class="input-short label-l" />  
+                                            <span asp-validation-for="BasicInfo.LastName"></span>
+                                            </div>
+                                            <div class="email">
+                                            <label asp-for="BasicInfo.Email"></label>
+                                            <input asp-for="BasicInfo.Email" class="input-short label-l" />
+                                            <span asp-validation-for="BasicInfo.Email"></span>
+                                            </div>
+                                            <div class="phonenumber">
+                                            <label asp-for="BasicInfo.PhoneNumber"></label>
+                                            <input asp-for="BasicInfo.PhoneNumber"class="input-short label-l" />
+                                            <span asp-validation-for="BasicInfo.PhoneNumber"></span>
+                                            </div>
+
+                                        </div>
+                                            <label asp-for="BasicInfo.Biography"></label>
+                                            <input asp-for="BasicInfo.Biography" class="input-big label-l" />
+                                            <span asp-validation-for="BasicInfo.Biography"></span>
+                                            <div class="basic-buttons">
+                                            <button type="reset" class="cancel btn-theme-secondary">Cancel</button>
+                                            <button class="Save btn-theme" type="submit">Save changes</button>
+                                            </div>      
+                                    </div>
+                                    </form>
+                                    <form method="post" asp-action="UpdateAddressInfo" asp-controller="Account">
+                                        <div class="address">
+                                            <label asp-for="AddressInfo.AddressLine_1"></label>
+                                            <input asp-for="AddressInfo.AddressLine_1" class="input label-l" />
+                                            <span asp-validation-for="AddressInfo.AddressLine_1"></span>
+
+                                            <label asp-for="AddressInfo.AddressLine_2"></label>
+                                            <input asp-for="AddressInfo.AddressLine_2" class="input label-l" />
+                                            <span asp-validation-for="AddressInfo.AddressLine_2"></span>
+
+                                            <div class="short-address-labels">
+                                                <div class="postalcode">
+                                                    <label asp-for="AddressInfo.PostalCode"></label>
+                                                    <input asp-for="AddressInfo.PostalCode" class="input-short label-l" />
+                                                    <span asp-validation-for="AddressInfo.PostalCode"></span>
+                                                </div>
+                                                <div class="city">
+                                                    <label asp-for="AddressInfo.City"></label>
+                                                    <input asp-for="AddressInfo.City" class="input-short label-l" />
+                                                    <span asp-validation-for="AddressInfo.City"></span>
+                                                </div>
+                                            </div>
+                                            <div class="address-buttons">
+                                                <button type="reset" class="cancel btn-theme-secondary">Cancel</button>
+                                                <button class="Save btn-theme" type="submit">Save changes</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                                
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+

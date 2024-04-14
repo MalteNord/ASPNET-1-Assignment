@@ -1,0 +1,131 @@
+.account-details {
+  .container {
+    .sidebar {
+      margin-top: 10px;
+      text-align: center;
+      margin-right: 970px;
+      .avatar {
+        margin-left: 0px;
+      }
+      .uploader {
+        position: relative;
+        left: 170px;
+        bottom: 35px;
+      }
+      h5 {
+        @include font-h5;
+      }
+      .sidebar-email {
+        margin-bottom: 50px;
+      }
+      .details {
+        width: 270px;
+        padding-right: 100px;
+      }
+      .sign-out {
+        margin-top: 50px;
+        padding-right: 50px;
+        left: 7%;
+        top: 47%;
+        color: var(--color-gray-800);
+        font-weight: 600;
+        text-decoration: none;
+        position: absolute;
+      }
+    }
+
+    .content {
+      margin-left: 450px;
+      h2 {
+        margin-bottom: 20px;
+      }
+
+      .input-group {
+        display: grid;
+        grid-template-columns: repeat(1, 0fr);
+        .input {
+          margin-bottom: 30px;
+          color: var(--color-gray-800);
+          line-height: 160%;
+          padding-left: 10px;
+          width: 824px;
+          height: 52px;
+        }
+
+        .input-short {
+          margin-bottom: 30px;
+          color: var(--color-gray-800);
+          line-height: 160%;
+          padding-left: 10px;
+          width: 384px;
+          height: 52px;
+        }
+
+        .input-big {
+          margin-bottom: 30px;
+          color: var(--color-gray-800);
+          line-height: 160%;
+          padding-left: 10px;
+          width: 824px;
+          height: 78px;
+        }
+        .basic-info {
+          .basic-info-text {
+            margin-bottom: 20px;
+          }
+          .short-basic-labels {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            .firstname {
+              display: grid;
+              grid-template-columns: repeat(1, 0fr);
+            }
+            .lastname {
+              display: grid;
+              grid-template-columns: repeat(1, 0fr);
+              margin-left: 25px;
+            }
+            .email {
+              display: grid;
+              grid-template-columns: repeat(1, 0fr);
+            }
+            .phonenumber {
+              display: grid;
+              grid-template-columns: repeat(1, 0fr);
+              margin-left: 25px;
+            }
+          }
+          .basic-buttons {
+          }
+        }
+
+        .address {
+          .short-address-labels {
+            display: flex;
+            .postalcode {
+              display: grid;
+              grid-template-columns: repeat(1, 0fr);
+            }
+            .city {
+              display: grid;
+              grid-template-columns: repeat(1, 0fr);
+              margin-left: 55px;
+            }
+          }
+
+          .address-buttons {
+          }
+        }
+
+        .cancel {
+          margin-right: 10px;
+          margin-bottom: 50px;
+        }
+
+        .save {
+          margin-left: 50px;
+        }
+      }
+    }
+  }
+}

@@ -28,6 +28,9 @@
             "projectReferences": {
               "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj": {
                 "projectPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj"
+              },
+              "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/WebApi/WebApi.csproj": {
+                "projectPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/WebApi/WebApi.csproj"
               }
             }
           }
@@ -60,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -147,6 +154,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -161,6 +172,91 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/WebApi/WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/WebApi/WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/WebApi/WebApi.csproj",
+        "packagesPath": "/Users/ensidya/.nuget/packages/",
+        "outputPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ensidya/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/Infrastructure/Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

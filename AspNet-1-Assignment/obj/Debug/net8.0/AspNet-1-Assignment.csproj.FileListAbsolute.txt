@@ -305,3 +305,13 @@
 /Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/AspNet-1-Assignment.pdb
 /Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/AspNet-1-Assignment.genruntimeconfig.cache
 /Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/obj/Debug/net8.0/ref/AspNet-1-Assignment.dll
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/WebApi.deps.json
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/WebApi.runtimeconfig.json
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/WebApi
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/WebApi.dll
+/Users/ensidya/Desktop/Skola/Assignments/ASP.Net-1/Assignment-ASPNET-1-Malte-CMS23/AspNet-1-Assignment/bin/Debug/net8.0/WebApi.pdb
